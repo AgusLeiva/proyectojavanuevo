@@ -10,34 +10,34 @@
             {
                 "id": 1,
                 "nombre": "Taylor Swift",
-                "descripcion": "Adquiere tu membresía en arma 3",
-                "precio": 300,
-                "img": "loverTaylor.jfif",
+                "descripcion": "Adquiere tu disco",
+                "precio": 3000,
+                "img": "loverTaylor.webp",
                 "destacado": 1
             },
             {
                 "id": 2,
                 "nombre": "Taylor Swift",
-                "descripcion": "Adquiere tu membresía en PZ",
-                "precio": 200,
-                "img": "redTaylor.png",
+                "descripcion": "Adquiere tu disco",
+                "precio": 2000,
+                "img": "fondo.webp",
                 "destacado": 1
             },
 
             {
                 "id": 3,
                 "nombre": "Taylor Swift",
-                "descripcion": "Adquiere tu membresía en HLL",
-                "precio": 200,
-                "img": "reputationTay.png",
+                "descripcion": "Adquiere tu disco",
+                "precio": 1500,
+                "img": "reputationTay.webp",
                 "destacado": 1
             },
             {
                 "id": 4,
                 "nombre": "Taylor Swift",
-                "descripcion": "Adquiere tu membresía en RON",
-                "precio": 300,
-                "img": "midnights.jfif",
+                "descripcion": "Adquiere tu disco",
+                "precio": 4000,
+                "img": "midnightsTay.webp",
                 "destacado": 1
             },
           
@@ -236,7 +236,7 @@
             row.innerHTML = `
                 
                         <div class="col-3 d-flex align-items-center p-2 border-bottom">
-                            <img src="../img/comunidad/${img}" width="80"/>
+                            <img src="${img}" width="80"/>
                         </div>
 
                         <div class="col-3 d-flex align-items-center p-2 border-bottom">
