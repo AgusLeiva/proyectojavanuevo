@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hzlrevert/Sitio_HDA.git"
+    "url": "git+https://github.com/AgusLeiva/proyectojavanuevo.git"
   },
-  "author": "hzlrevert",
+  "author": "aglleiva",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hzlrevert/Sitio_HDA/issues"
+    "url": "https://github.com/AgusLeiva/proyectojavanuevo/issues"
   },
-  "homepage": "https://github.com/hzlrevert/Sitio_HDA#readme",
+  "homepage": "https://github.com/AgusLeiva/proyectojavanuevo#readme",
   "devDependencies": {
     "node-sass": "^7.0.1",
     "nodemon": "^2.0.19"
